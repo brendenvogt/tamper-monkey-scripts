@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Doom Scroller
+// @name         Doom Scroller 9000
 // @namespace    http://tampermonkey.net/
 // @version      2025-05-21
 // @description  Auto-scroll to next visible Instagram post with a polished UI and dynamic behavior handling for infinite scrolling feeds.
